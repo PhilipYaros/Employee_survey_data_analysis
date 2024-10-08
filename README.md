@@ -75,7 +75,7 @@ The dataset contains employee information, including their demographics, work co
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/employee-wellbeing-analysis.git
+   git clone https://github.com/PhilipYaros/Employee_survey_data_analysis.git
    ```
 
 2. Install the required libraries:
@@ -85,14 +85,14 @@ The dataset contains employee information, including their demographics, work co
 
 3. Open the Jupyter notebook to explore the analysis:
    ```bash
-   jupyter notebook employee_wellbeing_analysis.ipynb
+   jupyter notebook Employee_survey_analysis.ipynb
    ```
 
 ## **Conclusion**
 The analysis provides valuable insights into employee satisfaction and well-being. Company management can use this information to improve work conditions, reduce stress, and increase overall job satisfaction. Improvements in work-life balance, stress management, and commute strategies could lead to a more engaged and productive workforce.
 
 ## **Contact**
-For any questions or suggestions, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
+For any questions or suggestions, feel free to contact me at [Philus012@gmail.com](mailto:Philus012@gmail.com).
 
 ---
 
